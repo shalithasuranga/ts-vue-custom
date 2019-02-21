@@ -9,6 +9,7 @@
   "dependencies": {
     "vue": "^2.6.6",
     "vue-class-component": "^6.0.0",
+    "vue-custom-element": "^3.2.6",
     "vue-property-decorator": "^7.0.0"
   },
   "devDependencies": {
